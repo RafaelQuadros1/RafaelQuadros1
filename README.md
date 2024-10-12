@@ -10,7 +10,7 @@ Sou um desenvolvedor Front-End que gosta de criar aplicações web responsivas e
 
 - 🌍 Localização: Salvador-BA
 - 🔭 Atualmente trabalhando em: **projetos com React** e **melhorias em UI/UX**
-- 🌱 Aprendendo mais sobre: **Next.js** e **TypeScript**
+- 🌱 Aprendendo mais sobre: **Vue.js**
 - ⚡ Curiosidade: Nas horas vagas, também sou um artista digital!
 
 ---
