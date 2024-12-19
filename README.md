@@ -43,7 +43,7 @@ Sou um desenvolvedor Front-End que gosta de criar aplicações web responsivas e
 ## 📫 Como me encontrar
 
 - LinkedIn: [linkedin.com/in/rafaelq-sama](www.linkedin.com/in/rafaelq-sama)
-- Portfólio: [Samma.com](https://samma.netlify.app/))
+- Portfólio: devsama.netlify.app
 - Email: **rquadros048@gmail.com**
 
 ---
