@@ -19,7 +19,7 @@
 </ul>
 <h3 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conecte-se comigo:</font></font></h3>
 <div align="center">
-<p><a href="www.linkedin.com/in/rafaelq-sama/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="imagem"></a>
+<p><a href="www.linkedin.com/in/rafaelq-sama"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="imagem"></a>
 <a href="mailto:produtor.rquadros048@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="imagem"></a>
 <a href="https://discord.com/users/828659757278560276"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="imagem"></a></p>
 </div>
