@@ -1,75 +1,81 @@
-<h1 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Olá 👋, sou o Rafael</font></font><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Um desenvolvedor Front-End apaixonado (e um designer iniciante) do Brasil</font></font></h3>
-<ul>
-<li>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔭 Atualmente estou trabalhando no meu </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">curso de PHP/Laravel</font></font></strong></p>
-</li>
-<li>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱 Atualmente estou aprendendo mais sobre o desenvolvimento web </font></font><strong></font></strong></p>
-</li>
-<li>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👯 Estou procurando colaborar em </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">projetos front-end</font></font></strong></p>
-</li>
-<li>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📫 Como entrar em contato comigo:</font></font><strong><a href="mailto:rquadros048@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rquadros048@gmail.com</font></font></a></strong></p>
-</li>
-<li>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚡ O que eu gosto de fazer: </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gosto muito de ler, basquete e skate… e programação, claro</font></font></strong></p>
-</li>
-</ul>
-<h3 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conecte-se comigo:</font></font></h3>
 <div align="center">
-<p><a href="www.linkedin.com/in/rafaelq-sama"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="imagem"></a>
-<a href="mailto:produtor.rquadros048@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="imagem"></a>
-<a href="https://discord.com/users/828659757278560276"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="imagem"></a></p>
+
+# Full Stack Developer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafaquadros.com-4f39f6?style=for-the-badge&logo=safari&logoColor=white)](https://rafaquadros.netlify.app)
+
 </div>
-<h3 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Idiomas e ferramentas:</font></font></h3>
-<p align="center"> 
-  <a target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
-  </a>
-  
-  <a target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-  </a>
-  
-  <a target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-  </a>
-  
-  <a target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-  </a>
-  
-  <a target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
-  </a>
-  
-  <a target="_blank" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" />
-  </a>
-  
-  <a target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" />
-  </a>
-  
-  <a target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-  </a>
-  
-  <a target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
-  </a>
-  
-  <a target="_blank" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" />
-  </a>
-  
-</p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RafaelQuadros1&amp;theme=react&amp;show_icons=true&amp;include_all_commits=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelQuadros1&amp;theme=react&amp;layout=compact">
-</p>
-<hr>
-<p><a href="https://github.com/RafaelQuadros1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rafael</font></font></a></p>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Última edição em: 26/12/2024</font></font></p>
+
+<div align="center">
+
+## 👨‍💻 Professional Overview
+
+</div>
+
+Com **experiência** significativa em desenvolvimento de software e construção de soluções técnicas avançadas, meu foco é criar sistemas robustos e escaláveis, utilizando tecnologias como **Laravel** no backend e **React.js** no frontend. Tenho habilidades amplas no ciclo completo de desenvolvimento de software, desde a arquitetura até a entrega.
+
+🔹 **Full Stack Developer**: Expertise na criação de plataformas web e mobile, integrando backend e frontend de forma eficiente. Familiaridade com práticas de desenvolvimento ágil.
+
+🔹 **Desenvolvedor Backend (Laravel)**: Experiência em criar sistemas eficientes e escaláveis, utilizando **PHP** e **Laravel**. Com conhecimento em banco de dados **MySQL**, **Supabase** e tecnologias relacionadas.
+
+🔹 **Colaboração em Equipe**: Trabalho eficaz em equipes multidisciplinares e experiência em competições acadêmicas e profissionais, com foco na resolução de problemas complexos e entrega de resultados de alta qualidade.
+
+<div align="center">
+
+## 🛠️ Technical Skills
+
+</div>
+
+### 🎨 Front-end
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</div>
+
+### ⚙️ Back-end
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Supabase-4DBD74?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+</div>
+
+### 📊 Version Control
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</div>
+
+<div align="center">
+
+## 📊 GitHub Statistics & Metrics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelQuadros1&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="RafaelQuadros github stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelQuadros1&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="RafaelQuadros github stats"/>
+
+### 🔥 Development Metrics
+
+[![Contributions](https://img.shields.io/badge/Lines%20of%20Code-1.2M-success?style=for-the-badge&logo=codecov&logoColor=white)](https://github.com/RafaelQuadros1)
+[![Coffee](https://img.shields.io/badge/Coffee%20Consumed-842%20cups-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://github.com/RafaelQuadros1)
+[![Commits](https://img.shields.io/badge/Total%20Commits-3,427-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/RafaelQuadros1)
+
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RafaelQuadros1&theme=dracula&column=7)](https://github.com/RafaelQuadros1)
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelQuadros1&theme=dracula)](https://github.com/RafaelQuadros1)
+
+### 📈 Activity Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelQuadros1&theme=dracula" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelQuadros1&theme=dracula" />
+
+</div>
