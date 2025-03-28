@@ -2,7 +2,7 @@
 <h3 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Um desenvolvedor Front-End apaixonado (e um designer iniciante) do Brasil</font></font></h3>
 <ul>
 <li>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔭 Atualmente estou trabalhando no meu </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">curso de React.js</font></font></strong></p>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔭 Atualmente estou trabalhando no meu </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">curso de PHP/Laravel</font></font></strong></p>
 </li>
 <li>
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱 Atualmente estou aprendendo mais sobre o desenvolvimento web </font></font><strong></font></strong></p>
