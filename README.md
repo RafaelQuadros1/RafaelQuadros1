@@ -42,7 +42,6 @@ Com **experiência** significativa em desenvolvimento de software e construção
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Supabase-4DBD74?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
 </div>
 
 ### 📊 Version Control
