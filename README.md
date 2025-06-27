@@ -72,9 +72,6 @@ Com **experiência** significativa em desenvolvimento de software e construção
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelQuadros1&theme=dracula)](https://github.com/RafaelQuadros1)
 
 ### 📈 Activity Overview
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelQuadros1&theme=dracula" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelQuadros1&theme=dracula" />
 
 </div>
