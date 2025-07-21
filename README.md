@@ -66,11 +66,6 @@ Com **experiência** significativa em desenvolvimento de software e construção
 ### 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RafaelQuadros1&theme=dracula&column=7)](https://github.com/RafaelQuadros1)
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelQuadros1&theme=dracula)](https://github.com/RafaelQuadros1)
-
 ### 📈 Activity Overview
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelQuadros1&theme=dracula" />
 
